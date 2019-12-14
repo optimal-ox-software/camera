@@ -1,5 +1,5 @@
 import { Component, h } from '@stencil/core';
-import { Plugins, CameraResultType, h } from '@capacitor/core';
+import { Plugins, CameraResultType } from '@capacitor/core';
 
 const { Camera } = Plugins;
 
