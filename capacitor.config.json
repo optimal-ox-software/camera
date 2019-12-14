@@ -1,0 +1,8 @@
+{
+  "appId": "com.optimal.OxCamera",
+  "appName": "ox-camera",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}

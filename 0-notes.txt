@@ -1,0 +1,15 @@
+
+--------------------------------------
+2019.12.14
+
+https://www.joshmorony.com/using-the-camera-api-in-a-pwa-with-capacitor/
+
+npm init stencil
+- pwa
+npm install @ionic/pwa-elements
+npm install --save @capacitor/core @capacitor/cliA
+npx cap init
+
+- src/global/app.ts file:
+import "@ionic/pwa-elements";
+
